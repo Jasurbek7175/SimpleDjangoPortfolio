@@ -43,6 +43,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
+
 ROOT_URLCONF = 'portfolio.urls'
 
 CROS_ORIGIN_ALLOW_ALL = True
